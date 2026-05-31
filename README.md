@@ -18,3 +18,6 @@ Ensure you have a C++ compiler (`g++`, `clang++`, or MSVC) installed.
 3. Run the executable:
    `./cfd_solver` (or `cfd_solver.exe` on Windows)
 4. Open the resulting `fluid_output_*.vtk` files in ParaView to visualize the vortex.
+
+<img width="1565" height="792" alt="InititalPressureDistribution" src="https://github.com/user-attachments/assets/b5b6fd34-aae6-44ad-99ab-106165e1d3c3" />
+<img width="1561" height="792" alt="FinalPressureDistribution" src="https://github.com/user-attachments/assets/2a23d4f8-dd42-4111-9342-cac2e7d55086" />
